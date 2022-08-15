@@ -1,16 +1,13 @@
-### Hi there 👋
+![Fupi logo](/Logo.svg)
 
-<!--
-**fupicat/fupicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas-vindas à minha man-cave. :wave:
 
-Here are some ideas to get you started:
+Sou web dev profissional e game dev como hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Todo o código dos meus projetos de hobby está aqui!
+
+Meu site: [fupicat.com.br](https://fupicat.com.br)
+
+### Contato
+
+| [Twitter (@fupibr)](https://twitter.com/fupibr) | Discord: Fupi#4400 | Email: fupicat arroba gmail ponto com |
