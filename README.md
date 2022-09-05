@@ -1,6 +1,6 @@
 ![Fupi logo](/Logo.svg)
 
-Boas-vindas à minha man-cave. :wave:
+Boas-vindas à minha casinha. :wave:
 
 Sou web dev profissional e game dev como hobby.
 
