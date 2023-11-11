@@ -10,4 +10,4 @@ Meu site: [fupicat.com.br](https://fupicat.com.br)
 
 ### Contato
 
-| [Twitter (@fupibr)](https://twitter.com/fupibr) | Discord: Fupi#4400 | Email: fupicat arroba gmail ponto com |
+| [Twitter (@fupibr)](https://twitter.com/fupibr) | Discord: fupicat | Email: fupicat arroba gmail ponto com |
